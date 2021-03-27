@@ -1,15 +1,14 @@
 <h1 align="center">
 
-:computer: **RECRIADO A INTERFACE DO NETFLIX**
+:computer: **RECRIANDO A INTERFACE DO NETFLIX**
 
 </h1>
 
 <h1 align="center">
 <img alt="logo Digital Innovation One" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1OXUFeAAKnL7l6wXc7IfvC9r9edDlMnmzO_bJV4O5aoH_7PmvNaGAiKAmu1x5WxpOFDPbQkCmJpgtchs-zQNvwQ&usqp=CAU&ec=45702847" width="400px">
-</h1>
+
 
 <h2 align="center" style="color:black"> Projeto Concluído
-<h2>
 
 <h2 align="center">
 <img alt="screen shot" src="public/img/scree_shot.png" width="600px">
@@ -24,7 +23,7 @@
 <h5 align="center">
 <p style="color:black">ÍNDICE</p>
 
-[Sobre o desafio](#-O-desafio) | [Tecnologias utilizadas](#-Tecnologias-Utilizadas) | [Como baixar o projeto](#-Como-baixar-o-projeto)  | [Autor](#-Autor)
+[O desafio](#-O-desafio) | [Tecnologias utilizadas](#-Tecnologias-Utilizadas) | [Como baixar o projeto](#-Como-baixar-o-projeto)  | [Autor](#-Autor)
 
 </h5>
 
@@ -45,12 +44,7 @@ Nesse projeto foi recriado a interface do principal site de streaming mundial ut
 
 ```bash
         git clone https://github.com/armandofc1/netflixHomePage.git
-
-
 ```
-
----
-
 ## ⌨️ Autor
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/236738?v=4" width="100px;" alt="Perfil-autor" ><br>
